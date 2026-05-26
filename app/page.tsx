@@ -62,7 +62,7 @@ export default function Home() {
       
       {/* Navigation */}
       <nav className="fixed top-0 w-full z-50 flex items-center justify-between px-8 py-6 max-w-7xl mx-auto">
-        <span className="text-xl font-bold tracking-tighter">VeloCV</span>
+        <span className="text-xl font-bold tracking-tighter">AptisCV</span>
         <div className="flex gap-8 text-sm font-medium text-slate-400">
           <a href="#" className="hover:text-white transition-colors">Características</a>
           <a href="#" className="hover:text-white transition-colors">Precios</a>
