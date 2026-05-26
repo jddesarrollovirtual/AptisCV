@@ -16,6 +16,7 @@ export default function Home() {
   const [result, setResult] = useState<any>(null);
   const [loading, setLoading] = useState(false);
   const [loadingText, setLoadingText] = useState('Analizando perfil...');
+  const [loadingStep, setLoadingStep] = useState(0);
   const [error, setError] = useState<string | null>(null);
 
   const handleUpload = async () => {
