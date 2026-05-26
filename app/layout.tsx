@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VeloCV | AI-Powered Resume Optimizer for ATS Success",
-  description: "Boost your ATS score instantly with VeloCV. Get personalized analysis, skill detection, and job matching to land your dream career.",
-  keywords: ["resume analyzer", "ATS score", "career coaching", "AI resume builder", "job matching"],
+  title: "VeloCV | Optimizador de currículums con IA",
+  description: "Mejora tu puntuación ATS al instante con VeloCV. Obtén análisis personalizados, detección de habilidades y búsqueda de empleo para conseguir el trabajo de tus sueños.",
+  keywords: ["analizador de currículums", "puntuación ATS", "asesoramiento profesional", "creador de currículums con IA", "búsqueda de empleos"],
   openGraph: {
-    title: "VeloCV - Optimize Your Resume with AI",
-    description: "Get a professional ATS analysis in minutes.",
+    title: "VeloCV - Optimizador de currículums con IA",
+    description: "Obtén un análisis ATS profesional en minutos.",
     type: "website",
   },
 };
