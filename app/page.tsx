@@ -15,7 +15,6 @@ export default function Home() {
   const [isJdOpen, setIsJdOpen] = useState(false);
   const [result, setResult] = useState<any>(null);
   const [loading, setLoading] = useState(false);
-  const [loadingText, setLoadingText] = useState('Analizando perfil...');
   const [loadingStep, setLoadingStep] = useState(0);
   const [error, setError] = useState<string | null>(null);
 
@@ -259,3 +258,4 @@ export default function Home() {
       </footer>
     </main>
   );
+}
