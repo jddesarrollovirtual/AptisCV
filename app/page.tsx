@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { CheckCircle2, AlertTriangle } from 'lucide-react';
+import { CheckCircle2, AlertTriangle, Loader2, Check } from 'lucide-react';
 import { FileUploader } from '@/components/upload/file-uploader';
 import { CircularProgress } from '@/components/ui/circular-progress';
 import { ExportPdfButton } from '@/components/ui/export-pdf-button';
