@@ -10,7 +10,14 @@ const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
 });
-// ... rest of the file ...
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+export { metadata };
+
 export default function RootLayout({
   children,
 }: Readonly<{
