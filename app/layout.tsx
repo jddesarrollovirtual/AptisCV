@@ -14,11 +14,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VeloCV | Optimizador de currículums con IA",
+  title: "AptisCV | Optimizador de currículums con IA",
   description: "Mejora tu puntuación ATS al instante con VeloCV. Obtén análisis personalizados, detección de habilidades y búsqueda de empleo para conseguir el trabajo de tus sueños.",
   keywords: ["analizador de currículums", "puntuación ATS", "asesoramiento profesional", "creador de currículums con IA", "búsqueda de empleos"],
   openGraph: {
-    title: "VeloCV - Optimizador de currículums con IA",
+    title: "AptisCV - Optimizador de currículums con IA",
     description: "Obtén un análisis ATS profesional en minutos.",
     type: "website",
   },
