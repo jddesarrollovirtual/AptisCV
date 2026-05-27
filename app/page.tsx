@@ -225,7 +225,7 @@ export default function Home() {
 
       {/* Testimonials Section */}
       <section className="w-full max-w-4xl mt-24 mb-20 px-6">
-        <h2 className="text-center text-3xl font-bold mb-12">Confían en VeloCV</h2>
+        <h2 className="text-center text-3xl font-bold mb-12">Confían en AptisCV</h2>
         <div className="grid md:grid-cols-3 gap-6">
           {[
             { quote: "Me ayudó a mejorar mi puntaje ATS en minutos.", name: "Alex R.", role: "Ingeniero de Software" },
@@ -249,7 +249,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="w-full border-t border-white/5 py-8 mt-auto">
         <div className="max-w-7xl mx-auto px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-slate-500">
-          <p>© {new Date().getFullYear()} VeloCV. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} AptisCV. Todos los derechos reservados.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-colors">Privacidad</a>
             <a href="#" className="hover:text-white transition-colors">Términos</a>
